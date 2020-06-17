@@ -16,7 +16,6 @@ public class PruebaEntornos {
      */
     public static void main(String[] args) {
         System.out.println("Este es un archivo java de prueba");
-        System.out.println("Este es el segundo mensaje para el segundo commit");
     }
     
 }
